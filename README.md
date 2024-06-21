@@ -25,7 +25,7 @@ Authentication & Authorization: Secure endpoints with session keys or tokens and
 Error Handling & Logging: Handle exceptions and log events for debugging and audit trails.
 Scalability & Performance: Optimize database queries and ensure scalability for large-scale operations.
 
-Installation
+## Installation
 Clone the repository:
 windows HTTPS
 Copy code
