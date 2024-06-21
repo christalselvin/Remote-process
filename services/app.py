@@ -1,6 +1,6 @@
 """App entry point."""
 import sys
-sys.path.append("C:/Users/arund/PycharmProjects/RemoteAccess")
+sys.path.append("C:/Users/christal/PycharmProjects/RemoteAccess")
 from services import create_app
 
 
